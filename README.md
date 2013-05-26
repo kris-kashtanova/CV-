@@ -1,4 +1,7 @@
-CV-
-===
+Kristina Kashtanova 
 
-CV 
+Current CV: CV_KristinaKashtanova.doc 
+
+MSc in Computer Science transripts: 
+
+Published articles: 
