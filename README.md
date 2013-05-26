@@ -1,7 +1,19 @@
-Kristina Kashtanova 
+Current CV: 
 
-Current CV: CV_KristinaKashtanova.doc 
+CV_KristinaKashtanova.doc 
 
-MSc in Computer Science transripts: 
+===============================
+Records of previous education: 
 
+MSc_Transcript1.jpg
+MSc_Transcript2.jpg
+MSc_Transcript3.jpg
+MSc_Transcript4.jpg
+
+===============================
 Published articles: 
+
+TheWhitbyGazetteArticle.jpg 
+drinkanddrugsnews_RussianRoulette.pdf 
+
+===============================
